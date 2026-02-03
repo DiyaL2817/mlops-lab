@@ -6,3 +6,6 @@ y = [2,4,6,8]
 
 model = LinearRegression().fit(X, y)
 print("Prediction for 5:", model.predict([[5]])[0])
+
+print("Second CI/CD test successful")
+
